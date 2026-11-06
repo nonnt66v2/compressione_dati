@@ -1,2 +1,4 @@
 Data_Compression_methods_and_theory_J_A_Storer_Cap_260925_112247.pdf filter=lfs diff=lfs merge=lfs -text
 progetto/Analisi[[:space:]]BZIP2[[:space:]]Grano.zip filter=lfs diff=lfs merge=lfs -text
+progetto/Sasso[[:space:]]Giella[[:space:]]Improving[[:space:]]Secure[[:space:]]compression[[:space:]]based[[:space:]]on[[:space:]]the[[:space:]]BW[[:space:]]trasform[[:space:]]using[[:space:]]MPI[[:space:]]and[[:space:]]the[[:space:]]DC3[[:space:]]Algorithm[[:space:]]2026/ filter=lfs diff=lfs merge=lfs -text
+progetto/Criscuolo[[:space:]]et[[:space:]]al/ filter=lfs diff=lfs merge=lfs -text
